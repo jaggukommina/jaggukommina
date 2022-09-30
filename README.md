@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm jagadeesh kommina</h1>
 <h3 align="center">A passionated dotnet programmer from India</h3>
 
+- 📄 Know about my experiences [https://www.linkedin.com/in/jagadeeshkommina/](https://www.linkedin.com/in/jagadeeshkommina/)
+
+- ⚡ Fun fact **I am a movie lover, badminton player and curious guy**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/jagadeeshkommina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagadeeshkommina" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
