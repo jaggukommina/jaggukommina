@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm jagadeesh kommina</h1>
 <h3 align="center">A passionated dotnet programmer from India</h3>
 
+- 👤 Explore my portfolio here [https://jaggukommina.github.io/portfolio/#about](https://jaggukommina.github.io/portfolio/#about)
+
 - 📄 Know about my experiences [https://www.linkedin.com/in/jagadeeshkommina/](https://www.linkedin.com/in/jagadeeshkommina/)
 
 - ⚡ Fun fact **I am a movie lover, badminton player and curious guy**
